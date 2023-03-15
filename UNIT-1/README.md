@@ -16,3 +16,4 @@
 - **Tower of Hanoi**
 
 The implementations are done for the same algorithms in **C** and **Python**
+while there may not be much difference in the C and Python codes right now, there will be, in following, longer and complex algorithms

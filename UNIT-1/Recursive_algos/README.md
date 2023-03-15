@@ -1,20 +1,26 @@
-## 1) Algorithm to find Factorial of a number
+## Algorithm to find Factorial of a number
 
 ![pesudo_fact](../../img/factorial.png)
 
 **image courtesy:** Introduction to The Design and Analysis of Algorithms by Anany Levitin
 
-## 1) Step Decrementation Algorithm to find GCD
+## Algorithm to generate Fibonacci sequence till n
+
+![pesudo_fibo](../../img/fibonacci.png)
+
+**image courtesy:** Introduction to The Design and Analysis of Algorithms by Anany Levitin
+
+## Tower of Hanoi problem
 
 ```
-    Algo step_decrement(a, b):
-        //input: two positive binary integers a, b
-        //output: GCD of two numbers
-        while a != b:
-            if a > b:
-                a = a - b
-            else:
-                b = b - a
-        return a
+Algo tower(num_disk, source, auxiliary, destination)
+    //input: number of disks, source tower, auxiliary tower, and destination tower
+    //output: the steps to solve the problem are printed
+    if num_disk == 1:
+        print: move disk from source to destination
+    else:
+        tower(num_disk - 1, source, destination, auxiliary)
+        print: move disk from source to destination
+        tower(num_disk - 1, auxiliary, source, destination)e c
 ```
-[This algorithm has been written by me from memory]
+[Pesudocode written from memory]
