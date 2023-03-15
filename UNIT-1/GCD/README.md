@@ -5,6 +5,7 @@ proceed to Step 2.
 - **step 3:** Assign the value of n to m and the value of r to n. Go to Step 1.
 
 ![pesudo_euclid](../../img/pseudo_euclid.png)
+
 **image courtesy:** Introduction to The Design and Analysis of Algorithms by Anany Levitin
 
 ## 1) Step Decrementation Algorithm to find GCD
