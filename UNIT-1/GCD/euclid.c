@@ -1,3 +1,5 @@
+// Euclid's algorithm to compute gcd of two numbers
+// Code by Akshat Aryan
 #include <stdio.h>
 
 int euclid(int m, int n){
