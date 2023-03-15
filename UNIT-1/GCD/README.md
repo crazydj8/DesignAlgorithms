@@ -1,4 +1,4 @@
-## 1) Euclid's Algorithm to find GCD
+## Euclid's Algorithm to find GCD
 - **step 1:** If n = 0, return the value of m as the answer and stop; otherwise,
 proceed to Step 2.
 - **step 2:** Divide m by n and assign the value of the remainder to r.
@@ -8,7 +8,7 @@ proceed to Step 2.
 
 **image courtesy:** Introduction to The Design and Analysis of Algorithms by Anany Levitin
 
-## 1) Step Decrementation Algorithm to find GCD
+## Step Decrementation Algorithm to find GCD
 
 ```
     Algo step_decrement(a, b):
