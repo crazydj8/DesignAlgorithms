@@ -1,5 +1,5 @@
 # Euclid's algorithm to compute gcd of two numbers
-
+# Code by Akshat Aryan
 def euclid(m, n):
     while(n != 0):
         r = m % n
