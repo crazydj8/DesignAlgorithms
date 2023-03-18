@@ -4,7 +4,7 @@
 
 **image courtesy:** Introduction to The Design and Analysis of Algorithms by Anany Levitin
 
-## Algorithm to generate Fibonacci sequence till n
+## Algorithm to find nth term of the Fibonacci sequence
 
 ![pesudo_fibo](../../img/fibonacci.png)
 
