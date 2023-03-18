@@ -11,5 +11,5 @@ def gcd(m, n):
 
 if(__name__ == "__main__"):
     (a, b) = tuple(map(lambda x: int(x), input("Enter the two numbers:").split()))
-    print("GCD=", gcd(a, b))
+    print("GCD =", gcd(a, b))
     
