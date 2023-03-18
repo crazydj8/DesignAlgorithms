@@ -9,5 +9,5 @@ def euclid(m, n):
 
 if(__name__ == "__main__"):
     (a, b) = tuple(map(lambda x: int(x), input("Enter the two numbers:").split()))
-    print("GCD=", euclid(a, b))
+    print("GCD =", euclid(a, b))
     
