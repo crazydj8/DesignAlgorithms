@@ -21,6 +21,6 @@ Algo tower(num_disk, source, auxiliary, destination)
     else:
         tower(num_disk - 1, source, destination, auxiliary)
         print: move disk from source to destination
-        tower(num_disk - 1, auxiliary, source, destination)e c
+        tower(num_disk - 1, auxiliary, source, destination)
 ```
 [Pesudocode written from memory]
