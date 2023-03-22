@@ -19,6 +19,6 @@ def unique_set(arr):
         return False
 
 if(__name__ == "__main__"):
-    arr = list(map(lambda x: int(x), input("Enter the elements separated by space:").split()))
+    arr = list(map(int, input("Enter the elements separated by space:").split()))
     print("Using Levitin's Algo, uniqueness =", unique(arr))
     print("Using the other Algo, uniqueness =", unique_set(arr))
