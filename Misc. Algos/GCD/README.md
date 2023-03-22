@@ -21,4 +21,4 @@ proceed to Step 2.
                 b = b - a
         return a
 ```
-[This algorithm has been written by me from memory] 
+[This algorithm has been written by me from memory]
