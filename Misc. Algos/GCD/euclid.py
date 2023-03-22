@@ -8,6 +8,6 @@ def euclid(m, n):
     return m
 
 if(__name__ == "__main__"):
-    (a, b) = tuple(map(lambda x: int(x), input("Enter the two numbers:").split()))
+    (a, b) = tuple(map(int, input("Enter the two numbers:").split()))
     print("GCD =", euclid(a, b))
     
