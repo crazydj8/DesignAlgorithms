@@ -23,3 +23,10 @@
 **image courtesy:** Introduction to The Design and Analysis of Algorithms by Anany Levitin
 
 Please note that Python implementation might show alternate implementations of the same code
+
+### **Extra Python modules used:**
+- **Numpy:** Numpy module was used for arrays and its functions
+
+If Numpy module is not installed, make sure pip is installed, go to the terminal and type:
+
+        pip install numpy
