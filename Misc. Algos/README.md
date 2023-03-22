@@ -14,4 +14,4 @@
 - **Fibonacci series till limit n**
 - **Tower of Hanoi**
 
-The implementations are done for the same algorithms in **C** and **Python**
+The implementations are done for the same algorithms in **C** and **Python** 
